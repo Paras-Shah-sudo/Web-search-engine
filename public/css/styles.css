@@ -1,0 +1,25 @@
+body {
+    background-color: darkcyan;
+}
+
+.search {
+    position: relative;
+    top: 5rem;
+}
+
+.search_bar {
+    position: relative;
+    display: block;
+    border-radius: 50px;
+    width: 40%;
+    height: 3rem;
+    left: 29%;
+    margin: 20px;
+}
+
+.submit {
+    border-radius: 50px;
+    display: inline-block;
+    width: 6rem;
+    height: 3rem;
+}
